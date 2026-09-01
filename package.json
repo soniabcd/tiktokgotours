@@ -1,0 +1,1 @@
+{"name":"tiktok-go-tours-guide","version":"1.0.0","private":true,"scripts":{"start":"python3 -m http.server 8080"}}
